@@ -4,7 +4,7 @@ Project Purpose
 
 The PCB was created as part of a personal hardware project intended to interface physical inputs with sensor data for potential gesture or motion-based control systems.
 
-Design Process and Struggles
+_Design Process and Struggles_
 
 1. Understanding ESP32 GND Pads
 
