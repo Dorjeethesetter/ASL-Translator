@@ -14,7 +14,7 @@ Initially didn’t understand their role as thermal pads and grounding vias.
 
 Modified hole sizes manually, unsure if this would affect performance (resolved by looking into datasheet recommendations).
 
-2. Copper Zone Misconceptions
+*2. Copper Zone Misconception*
 
 Thought a copper fill zone meant I didn’t need to connect GND pins manually.
 
